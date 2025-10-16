@@ -1,6 +1,7 @@
 # Gaurav-Singh
 
 PROFILE
+
 Java Developer with 4.7 years of expertise in developing scalable enterprise
 applications using Java, Spring Boot, Microservices, and RESTful APIs. 
 
